@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Phishing-Detection-Capstone.git](https://github.com/YOUR_USERNAME/Phishing-Detection-Capstone.git)
+git clone [https://github.com/Emirrbozkurt/Phishing-Detection-Capstone.git](https://github.com/YOUR_USERNAME/Phishing-Detection-Capstone.git)
 cd Phishing-Detection-Capstone
 2. Install Dependencies
 Make sure you have Python installed. Then, install the required libraries:
@@ -68,7 +68,7 @@ Future Goal: Improve accuracy to >95% using Hyperparameter Tuning and XGBoost in
 [ ] Enhanced UI/UX with detailed threat reports.
 
 👤 Author
-Emre GÜLEN
+Emir Bozkurt
 
 Department of Computer Engineering
 
